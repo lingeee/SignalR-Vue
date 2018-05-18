@@ -1,0 +1,8 @@
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\bin\Debug\DataAccess.dll
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\bin\Debug\DataAccess.pdb
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\bin\Debug\Dapper.dll
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\bin\Debug\Niu.Cabinet.dll
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\bin\Debug\Dapper.xml
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\obj\Debug\DataAccess.dll
+D:\GitHub\SH_WebAPI\SignalRChatRoom\DataAccess\obj\Debug\DataAccess.pdb

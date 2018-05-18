@@ -1,0 +1,1 @@
+D:\GitHub\SH_WebAPI\SignalRChatRoom\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache

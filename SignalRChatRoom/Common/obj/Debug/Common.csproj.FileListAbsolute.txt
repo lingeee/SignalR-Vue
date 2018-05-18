@@ -1,0 +1,6 @@
+D:\GitHub\SH_WebAPI\SignalRChatRoom\Common\bin\Debug\Common.dll
+D:\GitHub\SH_WebAPI\SignalRChatRoom\Common\bin\Debug\Common.pdb
+D:\GitHub\SH_WebAPI\SignalRChatRoom\Common\bin\Debug\Niu.Cabinet.dll
+D:\GitHub\SH_WebAPI\SignalRChatRoom\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\GitHub\SH_WebAPI\SignalRChatRoom\Common\obj\Debug\Common.dll
+D:\GitHub\SH_WebAPI\SignalRChatRoom\Common\obj\Debug\Common.pdb
