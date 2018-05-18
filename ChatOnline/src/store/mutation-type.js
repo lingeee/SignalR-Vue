@@ -1,0 +1,2 @@
+
+export const SET_NOTICE_MAIN = 'SET_NOTICE_MAIN';
